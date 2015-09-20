@@ -21,4 +21,4 @@ Books I have read:
 
 | Number | Name | Finished | Author |
 | :---: | :--- | :---: | :---: |
-| 01 | [Aplicações web real-time com Node.js](http://www.casadocodigo.com.br/products/livro-nodejs) | [⎙]() | `Caio Ribeiro Pereira` |
+| 01 | [Aplicações web real-time com Node.js](http://www.casadocodigo.com.br/products/livro-nodejs) | [x]() | `Caio Ribeiro Pereira` |
