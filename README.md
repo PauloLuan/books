@@ -21,4 +21,5 @@ Books I have read:
 
 | Number | Name | Finished | Author |
 | :---: | :--- | :---: | :---: |
-| 01 | [Aplicações web real-time com Node.js](http://www.casadocodigo.com.br/products/livro-nodejs) | [x] | `Caio Ribeiro Pereira` |
+| 01 | [Aplicações web real-time com Node.js](http://www.casadocodigo.com.br/products/livro-nodejs) | [ x ] | `Caio Ribeiro Pereira` |
+| 02 | [Mean: Full stack JavaScript para aplicações web com MongoDB, Express, Angular e Node](http://www.casadocodigo.com.br/products/livro-mean) | [ x ] | `Flávio Almeidaa` |
