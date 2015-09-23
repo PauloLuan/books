@@ -23,3 +23,10 @@ Books I have read:
 | :---: | :--- | :---: | :---: |
 | 01 | [Aplicações web real-time com Node.js](http://www.casadocodigo.com.br/products/livro-nodejs) | [ x ] | `Caio Ribeiro Pereira` |
 | 02 | [Mean: Full stack JavaScript para aplicações web com MongoDB, Express, Angular e Node](http://www.casadocodigo.com.br/products/livro-mean) | [ x ] | `Flávio Almeidaa` |
+
+
+### Devops
+
+| Number | Name | Finished | Author |
+| :---: | :--- | :---: | :---: |
+| 01 | [Caixa de Ferramentas DevOps: Um guia para construção, administração e arquitetura de sistemas modernos](http://www.casadocodigo.com.br/products/livro-ferramentas-devops) | [  ] | `Gleicon Moraes` |
