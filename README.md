@@ -10,9 +10,12 @@ Books I have read:
 -->
 
 <!-- toc -->
-* [Programming](#programming)
-  * [Javascript](#javascript)
-  * [Devops](#devops)
+  * [Programming](#programming)
+    * [Javascript](#javascript)
+    * [Devops](#devops)
+* [Resources](#resources)
+  * [Free Resources](#free-resources)
+  * [Paid Resources](#paid-resources)
 
 <!-- toc stop -->
 
@@ -31,3 +34,13 @@ Books I have read:
 | Number | Name | Finished | Author |
 | :---: | :--- | :---: | :---: |
 | 01 | [Caixa de Ferramentas DevOps: Um guia para construção, administração e arquitetura de sistemas modernos](http://www.casadocodigo.com.br/products/livro-ferramentas-devops) | [  ] | `Gleicon Moraes` |
+
+# Resources
+
+Some links for free or payd ebooks:
+
+## Free Resources
+
+## Paid Resources 
+
+
