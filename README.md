@@ -44,3 +44,5 @@ Some links for free or payd ebooks:
 - [Free Programing books](https://github.com/vhf/free-programming-books)
 
 ## Paid Resources 
+
+- [Casa do Código](http://www.casadocodigo.com.br/)
