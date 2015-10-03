@@ -42,6 +42,7 @@ Some links for free or payd ebooks:
 ## Free Resources
 
 - [Free Programing books](https://github.com/vhf/free-programming-books)
+- [Sync Fusion](http://www.syncfusion.com/resources/techportal/ebooks)
 
 ## Paid Resources 
 
