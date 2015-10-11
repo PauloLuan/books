@@ -49,3 +49,4 @@ Some links for free or payd ebooks:
 ## Paid Resources 
 
 - [Casa do Código](http://www.casadocodigo.com.br/)
+- [O'Reilly](http://www.oreilly.com/)
