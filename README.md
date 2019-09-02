@@ -10,7 +10,9 @@ Books I have read:
 -->
 
 <!-- toc -->
-  * [Programming](#programming)
+  * [General](#general)
+    * [Finance](#finance)
+* [Programming](#programming)
     * [Javascript](#javascript)
     * [Devops](#devops)
 * [Resources](#resources)
@@ -19,14 +21,23 @@ Books I have read:
 
 <!-- toc stop -->
 
+## General
+### Finance
+| Number | Name | Finished | Author |
+| :---: | :--- | :---: | :---: |
+| 01 | [Rich Dad Poor Dad]() | [ :heavy_check_mark: 29/08/2019 ] | `Robert Kiyosaki` |
+| 02 | [Outwitting the Devil]() | [ :heavy_check_mark: 01/09/2019] | `Napoleon Hill` |
+| 03 | [Think and Grow Rich]() | [ :heavy_check_mark: 04/09/2019] | `Napoleon Hill` |
+
+
 ## Programming
 
 ### Javascript
 
 | Number | Name | Finished | Author |
 | :---: | :--- | :---: | :---: |
-| 01 | [Aplicações web real-time com Node.js](http://www.casadocodigo.com.br/products/livro-nodejs) | [ x ] | `Caio Ribeiro Pereira` |
-| 02 | [Mean: Full stack JavaScript para aplicações web com MongoDB, Express, Angular e Node](http://www.casadocodigo.com.br/products/livro-mean) | [ x ] | `Flávio Almeidaa` |
+| 01 | [Aplicações web real-time com Node.js](http://www.casadocodigo.com.br/products/livro-nodejs) | [ :heavy_check_mark: ] | `Caio Ribeiro Pereira` |
+| 02 | [Mean: Full stack JavaScript para aplicações web com MongoDB, Express, Angular e Node](http://www.casadocodigo.com.br/products/livro-mean) | [ :heavy_check_mark: ] | `Flávio Almeidaa` |
 
 
 ### Devops
