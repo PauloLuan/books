@@ -27,7 +27,7 @@ Books I have read:
 | :---: | :--- | :---: | :---: |
 | 01 | [Rich Dad Poor Dad]() | [ :heavy_check_mark: 29/08/2019 ] | `Robert Kiyosaki` |
 | 02 | [Outwitting the Devil]() | [ :heavy_check_mark: 01/09/2019] | `Napoleon Hill` |
-| 03 | [Think and Grow Rich]() | [ :soon: ] | `Napoleon Hill` |
+| 03 | [Think and Grow Rich]() | [ :heavy_check_mark: 06/09/2019 ] | `Napoleon Hill` |
 | 04 | [The Personal MBA: A World-Class Business Education in a Single Volume]() | [ :soon: ] | `Josh Kaufman` |
 
 
