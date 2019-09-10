@@ -29,6 +29,9 @@ Books I have read:
 | 02 | [Outwitting the Devil]() | [ :heavy_check_mark: 01/09/2019] | `Napoleon Hill` |
 | 03 | [Think and Grow Rich]() | [ :heavy_check_mark: 06/09/2019 ] | `Napoleon Hill` |
 | 04 | [The Personal MBA: A World-Class Business Education in a Single Volume]() | [ :soon: ] | `Josh Kaufman` |
+| 05 | [O X da Questão - a Trajetória do Maior Empreendedor do Brasil](https://www.amazon.com.br/X-Quest%C3%A3o-Eike-Batista/dp/857542663X) | [ :soon: ] | `Eike Batista` |
+
+
 
 
 
