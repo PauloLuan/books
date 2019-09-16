@@ -30,7 +30,7 @@ Books I have read:
 | 03 | [Think and Grow Rich]() | [ :heavy_check_mark: 06/09/2019 ] | `Napoleon Hill` |
 | 04 | [The Personal MBA: A World-Class Business Education in a Single Volume]() | [ :soon: ] | `Josh Kaufman` |
 | 05 | [O X da Questão - a Trajetória do Maior Empreendedor do Brasil](https://www.amazon.com.br/X-Quest%C3%A3o-Eike-Batista/dp/857542663X) | [ :heavy_check_mark: 10/09/2019 ] | `Eike Batista` |
-| 05 | DREAM BIG: How the Brazilian Trio behind 3G Capital - Jorge Paulo Lemann, Marcel Telles and Beto Sicupira - acquired Anheuser-Busch, Burger King and Heinz [](https://www.amazon.com/DREAM-BIG-Brazilian-Sicupira-Anheuser-Busch-ebook/dp/B00JUWYGDQ) | [ :heavy_check_mark: 14/09/2019 ] | `Eike Batista` |
+| 05 | [DREAM BIG: How the Brazilian Trio behind 3G Capital - Jorge Paulo Lemann, Marcel Telles and Beto Sicupira - acquired Anheuser-Busch, Burger King and Heinz](https://www.amazon.com/DREAM-BIG-Brazilian-Sicupira-Anheuser-Busch-ebook/dp/B00JUWYGDQ) | [ :heavy_check_mark: 14/09/2019 ] | `Cristiane Correa` |
 
 
 
