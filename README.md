@@ -31,7 +31,7 @@ Books I have read:
 | 04 | [The Personal MBA: A World-Class Business Education in a Single Volume]() | [ :soon: ] | `Josh Kaufman` |
 | 05 | [O X da Questão - a Trajetória do Maior Empreendedor do Brasil](https://www.amazon.com.br/X-Quest%C3%A3o-Eike-Batista/dp/857542663X) | [ :heavy_check_mark: 10/09/2019 ] | `Eike Batista` |
 | 06 | [DREAM BIG: How the Brazilian Trio behind 3G Capital - Jorge Paulo Lemann, Marcel Telles and Beto Sicupira - acquired Anheuser-Busch, Burger King and Heinz](https://www.amazon.com/DREAM-BIG-Brazilian-Sicupira-Anheuser-Busch-ebook/dp/B00JUWYGDQ) | [ :heavy_check_mark: 14/09/2019 ] | `Cristiane Correa` |
-| 07 | [Você está louco - uma vida administrada de outra forma](https://www.amazon.com.br/Voc%C3%AA-Louco-Administrada-Outra-Forma/dp/8532520944) | [ :soon: ] | `Ricardo Semler` |
+| 07 | [Você está louco - uma vida administrada de outra forma](https://www.amazon.com.br/Voc%C3%AA-Louco-Administrada-Outra-Forma/dp/8532520944) | [ :heavy_check_mark: 19/09/2019 ] | `Ricardo Semler` |
 | 08 | [How to Win Friends and Influence People](https://www.amazon.com.br/How-Win-Friends-Influence-People/dp/0671027034) | [ :soon: ] | `Dale Carnegie` |
 
 
