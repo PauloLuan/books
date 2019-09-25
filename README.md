@@ -33,7 +33,28 @@ Books I have read:
 | 06 | [DREAM BIG: How the Brazilian Trio behind 3G Capital - Jorge Paulo Lemann, Marcel Telles and Beto Sicupira - acquired Anheuser-Busch, Burger King and Heinz](https://www.amazon.com/DREAM-BIG-Brazilian-Sicupira-Anheuser-Busch-ebook/dp/B00JUWYGDQ) | [ :heavy_check_mark: 14/09/2019 ] | `Cristiane Correa` |
 | 07 | [Você está louco - uma vida administrada de outra forma](https://www.amazon.com.br/Voc%C3%AA-Louco-Administrada-Outra-Forma/dp/8532520944) | [ :heavy_check_mark: 19/09/2019 ] | `Ricardo Semler` |
 | 08 | [How to Win Friends and Influence People](https://www.amazon.com.br/How-Win-Friends-Influence-People/dp/0671027034) | [ :soon: ] | `Dale Carnegie` |
+| 09 | [The Like Switch: An Ex-FBI Agent's Guide to Influencing, Attracting, and Winning People Over](https://www.amazon.com.br/Like-Switch-Influencing-Attracting-Winning-ebook/dp/B00IWTWO8C) | [ :heavy_check_mark: 23/09/2019 ] | `Jack Schafer and Marvin Karlins` |
 
+<!-- 
+
+| 10 | []() | [ :soon: ] | `` |
+| 11 | []() | [ :soon: ] | `` |
+| 12 | []() | [ :soon: ] | `` |
+| 13 | []() | [ :soon: ] | `` |
+| 14 | []() | [ :soon: ] | `` |
+| 15 | []() | [ :soon: ] | `` |
+| 16 | []() | [ :soon: ] | `` |
+| 17 | []() | [ :soon: ] | `` |
+| 18 | []() | [ :soon: ] | `` |
+| 19 | []() | [ :soon: ] | `` |
+| 20 | []() | [ :soon: ] | `` |
+| 21 | []() | [ :soon: ] | `` |
+| 22 | []() | [ :soon: ] | `` |
+| 23 | []() | [ :soon: ] | `` |
+| 24 | []() | [ :soon: ] | `` |
+| 25 | []() | [ :soon: ] | `` |
+
+-->
 
 ## Programming
 
