@@ -34,10 +34,10 @@ Books I have read:
 | 07 | [Você está louco - uma vida administrada de outra forma](https://www.amazon.com.br/Voc%C3%AA-Louco-Administrada-Outra-Forma/dp/8532520944) | [ :heavy_check_mark: 19/09/2019 ] | `Ricardo Semler` |
 | 08 | [How to Win Friends and Influence People](https://www.amazon.com.br/How-Win-Friends-Influence-People/dp/0671027034) | [ :soon: ] | `Dale Carnegie` |
 | 09 | [The Like Switch: An Ex-FBI Agent's Guide to Influencing, Attracting, and Winning People Over](https://www.amazon.com.br/Like-Switch-Influencing-Attracting-Winning-ebook/dp/B00IWTWO8C) | [ :heavy_check_mark: 23/09/2019 ] | `Jack Schafer and Marvin Karlins` |
+| 10 | [Wall Street: O Livro Proibido](https://www.amazon.com.br/Wall-Street-Livro-Proibido-Ebook-ebook/dp/B01BCHOXUC) | [ :heavy_check_mark: 27/09/2019 ] | `Raiam Santos` |
 
 <!-- 
 
-| 10 | []() | [ :soon: ] | `` |
 | 11 | []() | [ :soon: ] | `` |
 | 12 | []() | [ :soon: ] | `` |
 | 13 | []() | [ :soon: ] | `` |
