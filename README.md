@@ -35,11 +35,9 @@ Books/Audiobooks I have read/listened:
 | 09 | [The Like Switch: An Ex-FBI Agent's Guide to Influencing, Attracting, and Winning People Over](https://www.amazon.com.br/Like-Switch-Influencing-Attracting-Winning-ebook/dp/B00IWTWO8C) | [ :heavy_check_mark: 23/09/2019 ] | `Jack Schafer and Marvin Karlins` |
 | 10 | [Wall Street: O Livro Proibido](https://www.amazon.com.br/Wall-Street-Livro-Proibido-Ebook-ebook/dp/B01BCHOXUC) | [ :heavy_check_mark: 27/09/2019 ] | `Raiam Santos` |
 | 11 | [The Power of Habit](https://www.amazon.com/Power-Habit-What-Life-Business/dp/081298160X) | [ :soon: ] | `Charles Duhigg ` |
-
+| 12 | [Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth](https://www.amazon.com.br/Secrets-Millionaire-Mind-Mastering-Wealth/dp/0060763280) | [ :soon: ] | `T. Harv Eker` |
 
 <!-- 
-| 11 | []() | [ :soon: ] | `` |
-| 12 | []() | [ :soon: ] | `` |
 | 13 | []() | [ :soon: ] | `` |
 | 14 | []() | [ :soon: ] | `` |
 | 15 | []() | [ :soon: ] | `` |
