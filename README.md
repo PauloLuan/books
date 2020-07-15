@@ -40,9 +40,9 @@ Books/Audiobooks I have read/listened:
 |   12   | [Secrets of the Millionaire Mind: Mastering the Inner Game of Wealth](https://www.amazon.com.br/Secrets-Millionaire-Mind-Mastering-Wealth/dp/0060763280)                                                                                             |            [ :soon: ]             |          `T. Harv Eker`           |
 |   13   | [The 48 Laws of Power](https://www.amazon.com/48-Laws-Power-Robert-Greene/dp/0140280197)                                                                                                                                                             |            [ :soon: ]             |          `Robert Greene`          |
 |   14   | [Exponential Organizations: Why new organizations are ten times better, faster, and cheaper than yours (and what to do about it)](https://www.amazon.com/Exponential-Organizations-organizations-better-cheaper-ebook/dp/B00OO8ZGC6)                 | [ :heavy_check_mark: 24/10/2019 ] | `Salim Ismail, Michael S. Malone` |
+|   15   | [How to Live on 24 Hours a Day: The Original Guide to Living Life to the Full](https://www.amazon.com.br/How-Live-24-Hours-Day-ebook/dp/B00QPHQTXO)                                                                                                  |  [:heavy_check_mark: 12/06/2020]  |          `Arnold Bennet`          |
 
 <!--
-| 15 | []() | [ :soon: ] | `` |
 | 16 | []() | [ :soon: ] | `` |
 | 17 | []() | [ :soon: ] | `` |
 | 18 | []() | [ :soon: ] | `` |
